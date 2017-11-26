@@ -1,0 +1,18 @@
+﻿1. Who is the key user? This isn't always clear, especially in marketplace sites, so take your best guess. 
+	They are targeting people who are frequent shoppers (having the 	Prime membership) for modern products with the convenience of 	easy access, fast research from reviews, and have it shipped 	right to their door.
+
+2. What is that user's number one critical goal when using the site? Be as specific as possible if there are multiple options here, e.g. "to purchase a red wagon" instead of "buy a toy".
+The user wants to find a product as easy as possible without having to be bogged down for the greatest deals because they can save it in their “save & compare list” to compare. The main goal is just to buy a product that interest them from previous products that they bought or from a blog that recommended the product. Most websites link to amazon.
+	
+3. What is likely to make that user's experience particularly positive (i.e. provide good satisfaction)? The search bar is in the perfect spot so it is easy to look up information instantly.
+ 
+4. What is the approximate information architecture of the site? (sketch it out) 
+5. What is the flow through that architecture for the user who is accomplishing the critical goal you identified above? 
+6. What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)? I believe the filter bar should follow the user so if they get frustrated after searching page after page then they can try again with more specific search results.
+7. What key interactions does the user have? Are they clear and usable? 
+8. What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction? 
+Like I said before the search bar is at a nice location. There is a filter bar that allows for ratings, prices, prime products only, and etc. to find a specific product the user is looking for.
+
+9. What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
+I find the Help and Browsing history to be particularly small. I understand that a website as big as amazon needs a huge amount of links in order to be able to successfully get the user to accomplish multiple goals so the help button would be very important to emphasize because it will teach new users the layout and maybe have a little walk through basic interactive tutorial like in a video game. When I used the site before, I had a hard time trying to get my refund after the trial period ended for the Amazon prime when I thought I canceled it before the trial period. Then it took me several times to find it and almost called and gave up… Also, the browsing history needs emphasized because I might have forgotten to save the product I liked to my lists or my computer shutdown unexpectedly. Also a dark theme for amazon would be great because stressing the eyes more creates more friction in my case and it would tire the user faster with the blue light which in turn gets them to leave the site faster.
+

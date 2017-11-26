@@ -1,0 +1,19 @@
+﻿1. Who is the key user? This isn't always clear, especially in marketplace sites, so take your best guess. 
+It seems the key users are travelers in their mid 20s to late 30s who want a unique experience when traveling. People who live in vans and RVs usually would end up liking this site. The other key user are the people that try to earn money by creating experiences for the travelers.
+2. What is that user's number one critical goal when using the site? Be as specific as possible if there are multiple options here, e.g. "to purchase a red wagon" instead of "buy a toy". 
+The main goal is to have a complete immersion experience at the location of their choice such as having unique tours that are not the norm, restaurants that they may never see as a regular tourist,  or maybe they don’t want to go to a standard hotel that anyone can find just anywhere.
+3. What is likely to make that user's experience particularly positive (i.e. provide good satisfaction)?  I like that there are 4 categories to choose from so it is more organized such as the “For you”, “Homes”, “Experiences”, and “Restaurants”. There are not too many links for causing friction for the user to think and it filters what they want to do on the site, definitely the “For you” because it gives me the idea if I signed up it would be more personalized. There is no information overload.
+
+4. What is the approximate information architecture of the site? (sketch it out) 
+
+5. What is the flow through that architecture for the user who is accomplishing the critical goal you identified above? 
+
+6. What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)? It tells you where you are by emphasizing the category by changing the color in blue and has an underline. The call to action buttons follows the user so they do not have to scroll all the way up to proceed to their next action if they are not interested in the posts that they see.
+
+7. What key interactions does the user have? Are they clear and usable? 
+
+8. What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction? If you already have a google account or a facebook account then you wouldn’t have to put in much information to sign up and signing in is easy as clicking 2 buttons. The website states the purpose of itself by saying, “Book unique homes and experience a city like a local.” It almost tells you everything that the site can do for the user. I like the button placement because it is using a pattern that I’m used to with other sites such as everything that has to do with FAQ and sign up is on the top-right. The destinations and guests are in the same location as it would be in booking a flight.
+
+9. What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction? 
+
+There is not many things to complain about because I find it simple and easy to navigate but I guess if I had to criticize maybe emphasize the Help and Sign up buttons plus add a change language button on the top-right if it somehow turned up in a different language. Also I found that when the user clicks on the post then the sharing the post or saving it in the wish list for the experiences posts, the user has to scroll all the way down to find those buttons or go back to the previous page to save it in the wish list.
